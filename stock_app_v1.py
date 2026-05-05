@@ -3,7 +3,7 @@ import yfinance as yf
 import datetime
 import altair as alt  # 忘れずに追加
 
-st.title("Princess Hiro's Stock Dashboard")
+st.title("Etoile-Hiro's Stock Dashboard")
 
 # --- サイドバー ---
 st.sidebar.write("### オプション設定")
